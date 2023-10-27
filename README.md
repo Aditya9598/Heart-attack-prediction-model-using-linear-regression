@@ -73,5 +73,7 @@ Feel free to explore and modify the script to improve its performance or adapt i
 **Note:** Always consult with a medical professional for accurate heart disease diagnosis and treatment. The script is not a substitute for medical advice.
 
   these are some screenshots of the model
-  https://github.com/Aditya9598/Heart-attack-prediction-model-using-linear-regression/blob/main/img2.jpg
-  https://github.com/Aditya9598/Heart-attack-prediction-model-using-linear-regression/blob/main/img1.jpg
+  ![Alt Text](https://github.com/Aditya9598/Heart-attack-prediction-model-using-linear-regression/blob/main/img2.jpg)
+  ![Alt Text](https://github.com/Aditya9598/Heart-attack-prediction-model-using-linear-regression/blob/main/img1.jpg)
+
+  
